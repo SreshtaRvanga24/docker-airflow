@@ -1,0 +1,151 @@
+store_id,store_name,city,store_type
+1,"Garcia, Mcconnell and Bell",Scottland,Online
+2,Baxter Inc,West Victoria,Mall
+3,"Fritz, Mitchell and Moreno",Paulfort,Mall
+4,Castillo and Sons,Lake Oliviamouth,Standalone
+5,Johnson-Griffin,Johnsonville,Standalone
+6,Cohen Group,Patrickburgh,Online
+7,Caldwell-Russo,Port Bonnieport,Online
+8,"Spencer, Walker and Goodwin",Shawhaven,Online
+9,"Davidson, Mcdaniel and Smith",Amymouth,Mall
+10,Murphy-Sanchez,Katherinemouth,Online
+11,"Brown, Price and Davis",Xavierborough,Online
+12,Miles LLC,Lindastad,Online
+13,Stewart-Evans,West Alexander,Mall
+14,Reed-Fitzgerald,Samanthaborough,Mall
+15,Anderson-Cardenas,Carpenterfort,Online
+16,Davis-Richard,Lake Sabrina,Online
+17,Foley-Sullivan,East Jasmineburgh,Mall
+18,Salazar Inc,Tonyburgh,Online
+19,Roth Group,Danielfort,Mall
+20,Guerrero-Garrett,Davidberg,Online
+21,Berry Ltd,Weberhaven,Mall
+22,Freeman Group,Andresburgh,Mall
+23,Nash LLC,Zacharyborough,Mall
+24,Hall-Lloyd,North Lawrence,Online
+25,Graham LLC,North Patrickton,Standalone
+26,Taylor-Thompson,Gonzalezton,Online
+27,"Ewing, Wright and Allen",East Ashleyside,Online
+28,Davis Inc,New Angela,Online
+29,Smith-Jones,South Brandyshire,Online
+30,Weber Group,South Toni,Mall
+31,Murray LLC,North Brittany,Online
+32,Vega LLC,Kennethview,Standalone
+33,"Reyes, Grant and Pearson",East Mark,Online
+34,Fisher-Scott,Cameronmouth,Mall
+35,"Singh, Campbell and Simpson",West Jonathanberg,Standalone
+36,Collins and Sons,Michaelfort,Standalone
+37,Mccullough-Hill,Davidsonmouth,Online
+38,"Foster, Porter and Miles",East Aliciastad,Online
+39,Jackson Group,Delgadoville,Online
+40,Hill PLC,Gutierrezmouth,Standalone
+41,"Roberts, Merritt and Ortiz",Woodberg,Mall
+42,Acosta-Graham,North Theresaside,Mall
+43,Vasquez-Davis,New Davidtown,Online
+44,"Carey, Taylor and Ellis",North Christopherstad,Mall
+45,Brown-Owens,Spearsborough,Standalone
+46,"Poole, Wilson and Jackson",Lake Nicholas,Online
+47,"Ingram, Wilkins and Campbell",Reneebury,Online
+48,"Brady, Jones and Smith",West Colleen,Online
+49,"Todd, Andrews and Klein",Lake Amandaside,Online
+50,Lyons-Horton,Angelaland,Mall
+51,Booker-Moore,Nicholasport,Online
+52,"Hall, Weeks and Holden",Ericahaven,Online
+53,Arias PLC,Molinafort,Online
+54,"Bailey, Massey and Morrison",Lake Karen,Standalone
+55,Jackson-Peters,Collinsstad,Mall
+56,"Bailey, Molina and Clayton",Doyleburgh,Standalone
+57,Campbell PLC,Courtneyberg,Online
+58,Ford-Jones,North Douglas,Mall
+59,"Kent, Camacho and Johnson",East Nancyburgh,Mall
+60,Garner-Dixon,Patriciachester,Online
+61,"Lane, Marquez and Peters",Veronicamouth,Standalone
+62,"Avery, Acevedo and Morrison",New Kristina,Online
+63,"Sanders, Thompson and Barnes",North Taylor,Standalone
+64,Barnes LLC,Bautistafort,Standalone
+65,Smith-Weeks,Jamesborough,Online
+66,"Taylor, Wall and Duran",West Wendy,Online
+67,Kelly-Blackwell,South Bradley,Standalone
+68,"Payne, Clark and Benson",Clarkmouth,Standalone
+69,Schmidt Ltd,Hudsonberg,Online
+70,Gardner and Sons,Lake Aprilborough,Standalone
+71,"Gordon, Hardy and Carroll",New Ericview,Standalone
+72,Baker-Gaines,East Lori,Standalone
+73,Taylor PLC,New Garystad,Standalone
+74,"Miller, King and Schwartz",Haynesport,Online
+75,Brown Ltd,South Sarah,Mall
+76,Wilson-Vaughn,Lake Debraside,Standalone
+77,Petty Ltd,Markside,Mall
+78,Pruitt-Thomas,Meganberg,Online
+79,Hayes-Knight,North Tracey,Mall
+80,"Coleman, Espinoza and Ellis",New Jasonfort,Mall
+81,"Patel, Weiss and Martinez",Port Lynn,Standalone
+82,Cohen Inc,Lake Bradley,Mall
+83,"Allen, Snow and Edwards",Boyerview,Mall
+84,Ayala-Baker,Lake Ana,Online
+85,"Dorsey, Thomas and Fischer",Tinaside,Online
+86,"Day, Hernandez and Contreras",Rodriguezstad,Online
+87,"Brady, Harris and Wade",Rogersville,Mall
+88,Olson Group,South Adamfort,Online
+89,Potts Ltd,Lake Karenton,Online
+90,White Inc,East Gloria,Mall
+91,"Landry, Lindsey and Cantu",Port Julialand,Online
+92,Parsons-Scott,Jamesmouth,Online
+93,"Warren, Jones and Johnson",East Donstad,Online
+94,Gomez LLC,East Seanshire,Mall
+95,Hall-Nelson,Tonyachester,Mall
+96,"Bradley, Fuller and Hernandez",Joneshaven,Mall
+97,Shepard-Gutierrez,North Nicole,Mall
+98,Collier Ltd,Audreyborough,Mall
+99,"Robinson, Young and Frederick",West Kaylahaven,Mall
+100,Walsh PLC,Port Darrellburgh,Online
+101,Yu-Jackson,Michaelberg,Online
+102,Cox Inc,Paulton,Standalone
+103,Anderson Group,Robinsonberg,Online
+104,"Cervantes, Moreno and Nichols",Villarrealton,Online
+105,Munoz-Roberts,Wrightfort,Mall
+106,Baker LLC,East Christopher,Mall
+107,Harris-Vazquez,East Charles,Online
+108,"Richardson, Moreno and Williams",Lake Kevinport,Mall
+109,"Archer, Hill and Lewis",South Nicholasbury,Standalone
+110,"Barr, Mckee and Chen",Smithborough,Standalone
+111,"Boyer, Murphy and Martin",Charleneberg,Online
+112,Jones Group,Stephensonport,Online
+113,Mcdaniel-Thomas,New Janet,Standalone
+114,"Morris, Bush and Jenkins",South Jillport,Standalone
+115,Harris and Sons,North Alexandraside,Online
+116,Bennett-Macdonald,Garciahaven,Standalone
+117,"Weber, Riggs and Little",Jordanfurt,Online
+118,"Wiley, Harris and Ramsey",Boydhaven,Standalone
+119,Fisher-Warren,West Mary,Standalone
+120,Mack-Marshall,Johnbury,Mall
+121,"Baker, Chavez and Logan",Riversborough,Online
+122,"Mitchell, Garcia and Pena",South Elizabeth,Mall
+123,Spencer Group,Rosemouth,Mall
+124,"Molina, Ho and Benjamin",Port Benjamin,Online
+125,Pittman Group,Cherylshire,Mall
+126,"Boyd, Fuentes and Cameron",Edwardsfurt,Online
+127,"Schmidt, Bennett and Flowers",Lake Matthewchester,Online
+128,Costa LLC,South Natalieport,Mall
+129,Cabrera-Gilmore,Lake Tonyaland,Mall
+130,Miller and Sons,Port Michael,Standalone
+131,Ward-Horn,New Jaychester,Standalone
+132,Olsen-Johnson,New Linda,Mall
+133,Murphy-Gonzalez,Kimberlytown,Mall
+134,Brown-Taylor,Matthewton,Online
+135,Davis-Garcia,Darrenville,Online
+136,Mcdaniel Group,Brianaland,Online
+137,Thomas and Sons,Ashleyberg,Mall
+138,Garcia Inc,Carrollchester,Standalone
+139,Walker-Wells,Juanton,Standalone
+140,"Rodriguez, Beltran and Gonzalez",Robertshaven,Standalone
+141,Bridges PLC,Lake Moniquestad,Mall
+142,Kaiser-Johnson,West Annaport,Standalone
+143,Wilson Ltd,East Samanthaland,Standalone
+144,"Jennings, Larsen and Aguirre",Lake Jamiemouth,Online
+145,"Flowers, Gray and Rice",South Anne,Standalone
+146,Norris-Obrien,East Jessica,Online
+147,Phillips-Thomas,Campbellmouth,Mall
+148,Williams-Rodriguez,Lake Jasonfurt,Standalone
+149,Graves-Boyer,New Joshua,Online
+150,"Hayes, Snyder and Pace",Port Kaylee,Mall

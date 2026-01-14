@@ -1,0 +1,46 @@
+return_id,transaction_id,reason,refund_amount
+1,95,No Longer Needed,1629.55
+2,109,Damaged,332.49
+3,82,No Longer Needed,145.28
+4,103,Damaged,99.99
+5,79,Damaged,54.18
+6,64,Damaged,144.56
+7,115,Wrong Item,8.45
+8,139,Wrong Item,34.19
+9,73,No Longer Needed,477.91
+10,134,Wrong Item,71.98
+11,61,Damaged,148.42
+12,136,Damaged,852.56
+13,89,No Longer Needed,165.12
+14,67,Wrong Item,329.69
+15,81,Damaged,416.95
+16,1,No Longer Needed,559.52
+17,47,Damaged,417.12
+18,120,Wrong Item,350.54
+19,13,Wrong Item,445.91
+20,59,Wrong Item,86.04
+21,97,No Longer Needed,165.3
+22,12,No Longer Needed,601.43
+23,22,Wrong Item,157.73
+24,147,No Longer Needed,1575.66
+25,117,Damaged,1642.46
+26,48,Damaged,234.69
+27,66,Wrong Item,61.57
+28,118,No Longer Needed,109.85
+29,26,Damaged,276.49
+30,102,No Longer Needed,304.93
+31,129,Wrong Item,110.21
+32,70,No Longer Needed,110.56
+33,6,Damaged,51.52
+34,23,Damaged,229.23
+35,105,Damaged,1456.27
+36,52,Damaged,42.92
+37,68,Wrong Item,270.4
+38,138,Wrong Item,1614.09
+39,39,Wrong Item,367.16
+40,96,No Longer Needed,774.08
+41,128,Wrong Item,183.75
+42,41,Wrong Item,193.36
+43,131,Wrong Item,240.0
+44,141,No Longer Needed,6.46
+45,27,Damaged,66.91

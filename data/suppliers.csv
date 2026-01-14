@@ -1,0 +1,151 @@
+supplier_id,supplier_name,country,lead_time_days
+1,Gibson PLC,Botswana,23
+2,Bailey-Jackson,Palau,23
+3,"Hicks, Blake and Hobbs",Romania,24
+4,"Parks, Nixon and Lewis",Italy,18
+5,Roberts Inc,Syrian Arab Republic,20
+6,French Group,Saudi Arabia,15
+7,Craig LLC,Indonesia,4
+8,"Martin, Chen and Mcdonald",Serbia,19
+9,Owens LLC,Portugal,6
+10,Cameron-Gonzalez,Timor-Leste,25
+11,Clark-Medina,Cook Islands,28
+12,"Carey, Mckinney and Oneal",Japan,11
+13,Smith-Kelley,Oman,23
+14,Thomas Inc,Jamaica,13
+15,Hicks Ltd,Togo,28
+16,Scott PLC,Saint Barthelemy,30
+17,Murphy-Cook,Central African Republic,3
+18,"Mitchell, Davidson and Gonzalez",Togo,20
+19,Fletcher Inc,Suriname,25
+20,Arnold PLC,United States Minor Outlying Islands,13
+21,Martin LLC,Uruguay,10
+22,Garcia Ltd,Thailand,15
+23,Johnson Inc,Morocco,27
+24,Fuentes and Sons,United Kingdom,24
+25,Phillips-Smith,Botswana,21
+26,Jones Ltd,Anguilla,24
+27,"Frederick, Malone and Ramirez",Jamaica,15
+28,"Bennett, Lopez and Robinson",Micronesia,27
+29,"Gamble, Sanders and Smith",Grenada,24
+30,French PLC,Egypt,3
+31,Harris-Bush,Libyan Arab Jamahiriya,22
+32,"Jones, Smith and Leonard",Trinidad and Tobago,28
+33,Hicks-Harrington,Swaziland,3
+34,Strong-Russell,Denmark,27
+35,Russell Ltd,Saint Lucia,19
+36,"Johnston, Pena and Glass",Albania,16
+37,Glenn-Boone,Trinidad and Tobago,10
+38,"Velez, Robertson and Evans",Solomon Islands,9
+39,Ferguson-Wright,Panama,11
+40,"Cline, Nunez and Richard",Cocos (Keeling) Islands,27
+41,Reed LLC,Iceland,11
+42,"Roberson, Smith and Li",United States of America,29
+43,Barrera-Walters,Mauritius,16
+44,Evans-Reyes,Guyana,29
+45,Thompson-Mills,Japan,29
+46,Matthews LLC,Vanuatu,20
+47,Vincent-Mendez,French Polynesia,4
+48,"Buchanan, Robinson and Dougherty",Indonesia,18
+49,Jacobs LLC,Mauritius,7
+50,"Huff, Skinner and Vasquez",Mayotte,27
+51,Hobbs Inc,Gibraltar,20
+52,Hill-Gardner,Niue,11
+53,"Graves, Flowers and Estrada",Trinidad and Tobago,28
+54,Wilcox Ltd,Reunion,21
+55,Taylor-Evans,Taiwan,14
+56,"Sanchez, Chaney and Evans",Poland,11
+57,Vincent-Gibson,Tuvalu,6
+58,Rodriguez LLC,Antarctica (the territory South of 60 deg S),9
+59,Lawrence-Vincent,French Southern Territories,11
+60,"Myers, Johnson and Jordan",Central African Republic,15
+61,"Coleman, Livingston and Romero",Nigeria,30
+62,Key and Sons,Eritrea,27
+63,"Freeman, Henry and Manning",Samoa,13
+64,"Snyder, Garcia and Hess",Brunei Darussalam,4
+65,Kaiser PLC,Reunion,16
+66,Weiss Ltd,Madagascar,22
+67,Ballard Ltd,Bouvet Island (Bouvetoya),22
+68,Griffin-Gonzales,Dominica,6
+69,Lee and Sons,Niger,17
+70,Flynn-Duke,Tokelau,9
+71,"Fisher, Williams and Davis",Liechtenstein,29
+72,Sanchez PLC,Bouvet Island (Bouvetoya),25
+73,Robinson Ltd,Bolivia,25
+74,Lopez-Contreras,Macao,17
+75,White Group,Libyan Arab Jamahiriya,19
+76,"Jones, Roberts and Anderson",Indonesia,16
+77,"Coleman, Davis and James",Bosnia and Herzegovina,25
+78,Shepherd-Reed,Somalia,7
+79,Compton-Kelly,Antigua and Barbuda,24
+80,Bender Inc,Philippines,5
+81,Lopez-Gross,Hong Kong,15
+82,Schneider-Palmer,Cote d'Ivoire,25
+83,Martin-Kennedy,Belarus,6
+84,Norris-Miller,Guam,7
+85,Steele-Campbell,British Indian Ocean Territory (Chagos Archipelago),18
+86,Harris LLC,Vietnam,28
+87,Powers-Baker,Poland,7
+88,Spears Ltd,Cook Islands,5
+89,"Hale, Green and Guerrero",Somalia,10
+90,Lozano Inc,Russian Federation,3
+91,"Green, Carlson and Stevens",Liechtenstein,25
+92,Cabrera Group,Montenegro,16
+93,Lewis PLC,Chad,5
+94,Maddox-Hernandez,Oman,26
+95,"Meyer, Jordan and Thomas",Sierra Leone,18
+96,Abbott and Sons,Lao People's Democratic Republic,9
+97,Gray and Sons,Cameroon,16
+98,Jackson-Roberts,Anguilla,15
+99,"Thomas, Adams and Garner",Iran,13
+100,"Jones, Bailey and Miles",Isle of Man,12
+101,Byrd-Obrien,Macao,5
+102,Hays and Sons,Nauru,11
+103,"Stevens, Jordan and Brown",British Virgin Islands,28
+104,"Wilson, Roberson and Griffith",Rwanda,26
+105,Vasquez and Sons,Pakistan,22
+106,Jenkins Group,India,25
+107,Perry-Lin,Palestinian Territory,26
+108,Liu PLC,United Kingdom,7
+109,Franklin Group,Kuwait,12
+110,"Farmer, Burke and Williams",Papua New Guinea,4
+111,"Rivera, Parker and Brooks",Cote d'Ivoire,14
+112,"Davis, Ross and Martinez",Samoa,22
+113,Adams and Sons,Burkina Faso,17
+114,"Smith, Harper and Newman",Azerbaijan,25
+115,Robinson LLC,Belize,21
+116,"Duncan, Garcia and Collins",Luxembourg,6
+117,"Collins, Snyder and Donaldson",Bhutan,19
+118,"Marsh, Jackson and Mathews",Uruguay,30
+119,Pruitt PLC,Ethiopia,19
+120,Martinez-Mccullough,Belarus,13
+121,Smith-Davis,Tokelau,26
+122,Schroeder-Howell,United Arab Emirates,14
+123,Castaneda and Sons,Austria,14
+124,"Richards, Jennings and Pruitt",Jordan,28
+125,"Osborn, Villa and Sanders",Egypt,28
+126,Foster-Erickson,South Africa,27
+127,Perez-Brown,Gabon,7
+128,Hill Inc,Lebanon,14
+129,"Smith, King and White",Norfolk Island,5
+130,"Castro, Goodman and Keith",United Arab Emirates,19
+131,"Ramirez, Gardner and Foster",Poland,29
+132,Schmidt-Martinez,Greenland,12
+133,Clarke-Erickson,Estonia,13
+134,Rose-Higgins,Mexico,8
+135,Garcia-Madden,Serbia,9
+136,"Alexander, Carlson and Watson",Kyrgyz Republic,14
+137,Harrison PLC,Tonga,17
+138,Smith-Russell,United Kingdom,19
+139,Nunez-Gonzalez,Ecuador,4
+140,Ferguson-Clark,Guinea,5
+141,Alvarez and Sons,Grenada,8
+142,Kelley-Kelly,United States Virgin Islands,7
+143,Wallace Inc,Marshall Islands,29
+144,"Bruce, Roberts and Turner",Svalbard & Jan Mayen Islands,15
+145,Sweeney PLC,French Polynesia,4
+146,Hurley and Sons,Sri Lanka,15
+147,Sanchez LLC,Suriname,6
+148,Meza-Graham,Saudi Arabia,27
+149,Snyder Ltd,Egypt,16
+150,Weber Group,Serbia,14

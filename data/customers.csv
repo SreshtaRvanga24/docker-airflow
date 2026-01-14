@@ -1,0 +1,151 @@
+customer_id,name,email,city,loyalty_tier
+1,Danielle White,gomezjennifer@example.org,North Mark,Platinum
+2,Mandy Sexton,morganmichael@example.org,West Meaganshire,Platinum
+3,Brandy White,maria22@example.com,Woodland,Silver
+4,Jonathan Martin,michelle02@example.com,Brownfurt,Silver
+5,Lisa Griffin,davidnewman@example.org,Heatherchester,Platinum
+6,Kaitlyn Walker,jeremybutler@example.org,North Katieburgh,Silver
+7,Jamie Martinez,davidmitchell@example.org,Stephanieshire,Silver
+8,Justin Jones,xlong@example.org,Danielbury,Gold
+9,Jessica Morgan,robinstephens@example.net,Lake Thomaschester,Gold
+10,Lauren Watkins,michelle36@example.com,Christopherhaven,Platinum
+11,Kimberly Huff,davisshelley@example.net,West Robertchester,Platinum
+12,Rita Thomas,elizabethsmith@example.org,East Robin,Gold
+13,Mark Warren,william49@example.com,Jeffersonport,Gold
+14,Wayne Brown,cabrerakayla@example.net,East Williamview,Platinum
+15,Scott Rios,michelle09@example.net,Mindyland,Gold
+16,Maxwell Romero,uhoffman@example.net,North Seanchester,Platinum
+17,Bradley Miller,robertgreen@example.org,Michaelborough,Gold
+18,Tammy Moore,michaelpace@example.net,New Kaylaburgh,Platinum
+19,Randall Anderson,alexisdavis@example.org,Thomasborough,Gold
+20,Maria Allen,uvalenzuela@example.com,Marshallville,Platinum
+21,Dr. Michele Washington,leslie37@example.org,Port Mitchelltown,Platinum
+22,Beverly Burke,cynthiaday@example.org,New Christopher,Gold
+23,Latoya Williams,cdyer@example.net,Snowland,Gold
+24,Christopher Shields,aprilreynolds@example.com,Fredland,Silver
+25,Kimberly Reed,thansen@example.org,Fisherburgh,Gold
+26,Caroline Quinn,claudiacarlson@example.org,South Allen,Platinum
+27,Eric May,elara@example.com,Mooreville,Platinum
+28,Samuel Sandoval,kevin37@example.net,Laceyhaven,Platinum
+29,Adrian Stark,kylecruz@example.net,West Matthewhaven,Silver
+30,James Mccormick,cwatkins@example.org,Dianafurt,Platinum
+31,Austin Clark,wrodriguez@example.org,New Andrew,Silver
+32,Gregory Cantu,james42@example.org,Castillochester,Gold
+33,Jorge Taylor,elliottbrittany@example.org,North Kristina,Gold
+34,Alan Weiss,lperez@example.org,Dominiqueport,Platinum
+35,Misty Richardson,bullockkayla@example.org,Christineborough,Silver
+36,Mr. Lee Coleman Jr.,palmerbrian@example.org,Kylefurt,Silver
+37,Melissa Richards,woodnicole@example.org,Scottville,Platinum
+38,Micheal Downs,bobby18@example.org,Pughborough,Platinum
+39,Megan Schaefer,luis23@example.com,Port Patrickland,Gold
+40,Jennifer Soto,sherry10@example.org,Port Ruben,Platinum
+41,Darrell Pittman,jaguilar@example.com,West Davidfort,Platinum
+42,Mary Ryan,justin82@example.com,North Adrianburgh,Platinum
+43,William Garcia,johnsonjerome@example.org,Johnchester,Gold
+44,Travis Lopez,dchaney@example.com,Wesleyside,Silver
+45,Richard White,aimeegonzalez@example.net,Ryanhaven,Gold
+46,Leslie Reyes,william72@example.com,New Lisaside,Gold
+47,Mario Morris,aking@example.net,Moralesside,Platinum
+48,Ashley Graves,mcguirejohnny@example.net,Rachelhaven,Platinum
+49,Rodney Clayton,maria09@example.com,Johnsonberg,Platinum
+50,Gregory Bender,ayalabrittany@example.net,Morganshire,Silver
+51,Elizabeth Allison,elizabeth62@example.com,Dawnmouth,Platinum
+52,Amanda James,whiteandrea@example.org,New Teresa,Silver
+53,Christopher Salinas,sydneywilliams@example.org,East Kevinberg,Platinum
+54,Nichole Alvarez,lwinters@example.com,Murrayhaven,Platinum
+55,Jacob Patel,robingalvan@example.net,Nathanmouth,Platinum
+56,Katie Watson,cohenbenjamin@example.net,Perezmouth,Gold
+57,Michael Hoffman,barbaraphillips@example.org,Port Angelafort,Platinum
+58,Adam Harper,greenkaitlin@example.com,East Patricia,Gold
+59,Lauren Miller,danielgreen@example.net,West Miguelville,Gold
+60,Tracy Robertson,prodriguez@example.com,Toddshire,Silver
+61,Sabrina Stewart,qperez@example.net,Markbury,Platinum
+62,Derek Perry,howeeddie@example.org,Haleyview,Silver
+63,William Thompson,barbara32@example.org,Lopezton,Platinum
+64,Hayden Jacobs,shammond@example.net,Clarkview,Silver
+65,Randy May,jacobsanchez@example.net,North Brianna,Platinum
+66,Mark West,yrobinson@example.org,Cathyport,Gold
+67,Eric Rogers,sue87@example.net,Maxport,Gold
+68,Jeffery Jimenez,bvargas@example.net,South Brian,Silver
+69,Brandon Farrell,vyork@example.org,Bishoptown,Platinum
+70,Anthony Moreno,josephjuarez@example.net,South Travis,Gold
+71,Diane Williams,donaldmorris@example.org,North Emily,Platinum
+72,Katherine Walker,browninggerald@example.org,Edwardschester,Gold
+73,Karen Rodriguez,blacksophia@example.net,Martinstad,Platinum
+74,Michael Smith,charlotte03@example.net,North Katherine,Gold
+75,Lisa Hill,paulhernandez@example.com,Maciasshire,Gold
+76,James Randolph,sonyamonroe@example.net,East Reneeborough,Silver
+77,Richard Hunt,jessica94@example.com,Singhberg,Platinum
+78,Megan Gray,rking@example.net,West Raymond,Platinum
+79,Shannon Robinson,dclark@example.com,Judymouth,Silver
+80,Nathaniel Coleman,moorejeremy@example.com,Michellefurt,Silver
+81,Brandon King,jose91@example.net,Lake Edwin,Gold
+82,Kristin Cook,monicahickman@example.org,Joseshire,Silver
+83,Carolyn White,erin53@example.net,South Carlos,Silver
+84,Jonathan Clark,andrewburch@example.org,Clarkmouth,Silver
+85,Kyle Thompson,tonya55@example.net,New Sheilamouth,Gold
+86,Alisha Floyd,mariomills@example.com,Moyerberg,Gold
+87,Chelsea Parks,faulkneramber@example.org,Evansmouth,Gold
+88,Victoria Hampton,hcrawford@example.org,South Kellyview,Platinum
+89,Michael Martin,bobby72@example.net,Lisashire,Silver
+90,Nicholas Larson,josephcherry@example.net,Lake Brian,Silver
+91,Christopher Padilla,qfitzgerald@example.org,Paigebury,Silver
+92,Sara Taylor,xchapman@example.org,Lake Jacobstad,Platinum
+93,Kathryn Clayton,aaronbrown@example.com,Cookeland,Platinum
+94,Margaret Berry,tiffany13@example.org,West Amyville,Gold
+95,Mark Richard,morrisonmelanie@example.net,Timothybury,Platinum
+96,Jimmy Ellis,mlove@example.net,Shannonborough,Gold
+97,Julie Morris,oliverkristina@example.org,South Virginiastad,Gold
+98,Sharon Arnold,ashlee42@example.net,North Jennifer,Gold
+99,Mckenzie Carter,xmacdonald@example.net,Port Anthonyfurt,Gold
+100,Amber Leonard,xburgess@example.net,East Charlesfurt,Silver
+101,Scott Mann,stephanie84@example.net,East Raymond,Silver
+102,Erin Small,ericayoung@example.com,Elizabethfurt,Gold
+103,Philip Cantu,alfredwilliams@example.net,East Christopher,Platinum
+104,Paul Smith PhD,ulyons@example.org,Williamsland,Platinum
+105,Brianna Melton,edecker@example.org,Summersshire,Platinum
+106,Lisa Pearson,jeremiahgibson@example.com,West Alexis,Gold
+107,Phillip Knight,dmiller@example.com,East Garyview,Silver
+108,Corey Flores,tylerclark@example.org,East Jodi,Gold
+109,Raymond Olson,gordonmichelle@example.org,Ronaldburgh,Silver
+110,Richard Morgan,hilljeanne@example.com,Rossberg,Silver
+111,Kelly Salazar,melissa96@example.org,Scottfort,Gold
+112,Timothy Ruiz,yburke@example.com,South Debra,Gold
+113,Brittany Luna,hendricksbrenda@example.net,Annafort,Gold
+114,Alejandro Murphy,maryjohnson@example.net,New Kevin,Silver
+115,Karen Chavez,djuarez@example.com,Vargasmouth,Platinum
+116,Julie Gallagher,kstevens@example.net,North Brittney,Gold
+117,Valerie Douglas,kennethtaylor@example.org,Port Matthewshire,Platinum
+118,Betty Foster,robertclark@example.com,Nguyenchester,Silver
+119,Travis Reese,morganstein@example.com,Hatfieldbury,Platinum
+120,Rebecca Ramirez,hannah30@example.org,West Michaelstad,Gold
+121,Morgan Turner,kennedymatthew@example.com,West Tylerview,Platinum
+122,Darren Ray,davidstone@example.net,Matthewville,Gold
+123,Karen Buchanan,edward84@example.org,Sheilaview,Platinum
+124,Deborah Rogers,colemankeith@example.net,Riveraborough,Platinum
+125,Mr. Joseph Carroll,smoore@example.net,Jefferymouth,Silver
+126,Jennifer Roberts,idoyle@example.net,North Coreyborough,Platinum
+127,Juan Lopez,kthomas@example.com,Mclaughlinton,Silver
+128,Elizabeth Morris,timothy05@example.net,North Alexandriaborough,Silver
+129,Larry Phillips,cpruitt@example.net,North Jessica,Silver
+130,David King,rodrigueznicole@example.com,Bondfort,Silver
+131,Kristen Jordan,ruizmatthew@example.com,West Katelynville,Platinum
+132,Rebecca Bauer,wilsonerica@example.org,Glassburgh,Gold
+133,Abigail Jefferson,gdavis@example.com,North Debbiehaven,Silver
+134,Amanda Hayes,castroheather@example.net,Lake Richard,Gold
+135,Stuart Anderson,joshuarodgers@example.net,New Peterfurt,Platinum
+136,Jeremy Myers,brianguerrero@example.net,Penastad,Gold
+137,David Hammond,ugrimes@example.org,West Davidchester,Platinum
+138,Lauren Ford,evanssara@example.com,Thomasstad,Silver
+139,Gregory Hernandez,pachecojennifer@example.com,Port Teresa,Silver
+140,Vanessa Lee,charleshall@example.org,West Thomas,Platinum
+141,Jonathan Salazar,amanda21@example.com,Marcmouth,Platinum
+142,John Nelson,valeriebrady@example.net,Littleport,Platinum
+143,Cody Davis,rguerra@example.net,Theresafurt,Silver
+144,Patricia Jefferson MD,kellyglenn@example.org,West Madeline,Silver
+145,Paul Bowers,vsparks@example.org,Wangstad,Silver
+146,Jennifer George,david28@example.org,Michellemouth,Platinum
+147,John Adams,coreysantiago@example.com,South Lisafort,Silver
+148,Jessica Collins,andrea53@example.net,Riceview,Platinum
+149,Lori Diaz,asmith@example.com,Charlotteview,Gold
+150,Amy Smith,ethanhodges@example.net,East Tammy,Platinum
