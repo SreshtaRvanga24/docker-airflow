@@ -1,0 +1,38 @@
+# 🔐 Environment variables
+.env
+.env.*
+
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# 🧪 Virtualenv / Conda
+.env/
+.conda/
+conda-env/
+
+# 🌀 Airflow
+airflow.db
+airflow.cfg
+webserver_config.py
+logs/
+__pycache__/
+
+# 📦 Docker
+*.log
+*.pid
+docker-compose.override.yml
+
+# 📊 OS / Editor junk
+.DS_Store
+.vscode/
+.idea/
+
+# 📁 Data artifacts (OPTIONAL – see note below)
+# Uncomment if data is generated and reproducible
+# data/*.csv
